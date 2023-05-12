@@ -1,0 +1,89 @@
+{
+  "category": "Packaged Food",
+  "items": [
+    {
+      "name": "Noodles",
+      "image": "noodles.jpg",
+      "subcategories": [
+        {
+          "name": "Fried Noodles",
+          "image": "fried-noodles.jpg",
+          "products": [
+            {
+              "name": "Spicy Fried Noodles",
+              "image": "spicy-fried-noodles.jpg",
+              "price": 2.99,
+              "description": "Delicious spicy fried noodles with vegetables."
+            },
+            {
+              "name": "Garlic Fried Noodles",
+              "image": "garlic-fried-noodles.jpg",
+              "price": 2.99,
+              "description": "Delicious garlic flavored fried noodles with vegetables."
+            }
+          ]
+        },
+        {
+          "name": "Steam Noodles",
+          "image": "steam-noodles.jpg",
+          "products": [
+            {
+              "name": "Chicken Steam Noodles",
+              "image": "chicken-steam-noodles.jpg",
+              "price": 3.49,
+              "description": "Healthy steamed noodles with chicken and vegetables."
+            },
+            {
+              "name": "Vegetable Steam Noodles",
+              "image": "vegetable-steam-noodles.jpg",
+              "price": 2.99,
+              "description": "Healthy steamed noodles with mixed vegetables."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Biscuits",
+      "image": "biscuits.jpg",
+      "subcategories": [
+        {
+          "name": "Sweet Biscuits",
+          "image": "sweet-biscuits.jpg",
+          "products": [
+            {
+              "name": "Chocolate Chip Biscuits",
+              "image": "chocolate-chip-biscuits.jpg",
+              "price": 1.99,
+              "description": "Delicious chocolate chip biscuits."
+            },
+            {
+              "name": "Oatmeal Raisin Biscuits",
+              "image": "oatmeal-raisin-biscuits.jpg",
+              "price": 1.99,
+              "description": "Healthy oatmeal raisin biscuits."
+            }
+          ]
+        },
+        {
+          "name": "Savory Biscuits",
+          "image": "savory-biscuits.jpg",
+          "products": [
+            {
+              "name": "Cheese Biscuits",
+              "image": "cheese-biscuits.jpg",
+              "price": 2.49,
+              "description": "Delicious cheesy biscuits."
+            },
+            {
+              "name": "Garlic Biscuits",
+              "image": "garlic-biscuits.jpg",
+              "price": 2.49,
+              "description": "Delicious garlic flavored biscuits."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
